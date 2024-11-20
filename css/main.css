@@ -54,6 +54,7 @@
 .about-us .our-vision .text{
     width: 90%;
     margin-right: auto;
+    text-align: right;
 }
 .about-us .our-vision .text h3{
     font-size: 45px;
